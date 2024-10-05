@@ -1,0 +1,13 @@
+/packages
+/WebApplicationSOMIOD/bin
+/Project_IS_FrontEnd_1/bin
+/WebApplicationSOMIOD/obj
+/WebApplicationSOMIOD/Web.config
+/.vs
+/WebApplicationSOMIOD/App_Data
+/WebApplicationSOMIOD/App_Data/DB_SOMIOD.mdf
+/WebApplicationSOMIOD/App_Data/DB_SOMIOD_log.ldf
+/Interrupetor/bin
+/Interrupetor/obj
+/Ventoinha/bin
+/Ventoinha/obj
